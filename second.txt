@@ -1,1 +1,2 @@
-This is my first file for secnd repo
+This is my first file for secnd 
+Changing directly from github
